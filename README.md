@@ -1,5 +1,4 @@
 ## About
-_______________________
 
 This application provides two functionalities:
 1. Caesar Cipher encryption/decryption
@@ -12,7 +11,6 @@ When you launch the application, a menu opens, and you can choose one of 4 optio
 4. The fourth option allows you to exit the program.
 
 ## Usage
-_______________________
 
 1. Create a project in IntelliJ IDEA by cloning it from GitHub.
 
@@ -30,7 +28,6 @@ _______________________
    3. Choose **Run** and the application will be launched.
 
 ## Approach
-_______________________
 
 ### **Caesar Cipher**
 
@@ -133,7 +130,6 @@ stack for operators:
 Result: 77
 
 ## Examples of usage
-_______________________
 
 For example, we want to encrypt the text **Hello World!** with shift = 3 using Caesar cipher algorithm.
 1. Launch the program and choose **Caesar Cipher Encryption** option.  
